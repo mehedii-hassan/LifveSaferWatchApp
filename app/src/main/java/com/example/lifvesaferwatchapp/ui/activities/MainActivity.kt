@@ -1,4 +1,4 @@
-package com.example.lifvesaferwatchapp
+package com.example.lifvesaferwatchapp.ui.activities
 
 import android.app.Activity
 import android.os.Bundle
