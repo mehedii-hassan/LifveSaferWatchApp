@@ -15,4 +15,5 @@
         android:name="com.example.lifvesaferwatchapp.ui.fragments.ShareAccountFragment"
         android:label="fragment_share_account"
         tools:layout="@layout/fragment_share_account" />
+
 </navigation>
